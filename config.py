@@ -1,4 +1,4 @@
-API_KEY=''
+API_KEY='enter your key here '
 CITY='London'
 CSV_FILE = 'weather_data.csv'
 EXCEL_FILE = 'weather_data.xlsx'
